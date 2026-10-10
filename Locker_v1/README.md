@@ -97,5 +97,5 @@ int correctPassword[4] = {2, 5, 8, 3};
 
 ## 추가 자료
 
-- [포트폴리오 소개 및 시연 영상 영역](PORTFOLIO.md)
-- [영상 파일 추가 안내](media/README.md)
+- [포트폴리오 소개 및 시연 영상 영역](https://jihyunjo.vercel.app/)
+- [영상 파일 추가 안내](https://youtube.com/shorts/JJAjeC_oZ9g)

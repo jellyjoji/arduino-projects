@@ -69,5 +69,5 @@ DHT11 모듈 종류에 따라 DATA 풀업 저항이 내장되어 있지 않을 �
 
 ## 프로젝트 자료
 
-- [포트폴리오 소개 및 시연 영상 영역](PORTFOLIO.md)
+- [포트폴리오 소개 및 시연 영상 영역](https://jihyunjo.vercel.app/)
 - [영상 파일 추가 안내](media/README.md)
