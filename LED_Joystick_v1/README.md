@@ -106,5 +106,5 @@ bool FIRST_ROW_REVERSED = false;
 
 ## 프로젝트 자료
 
-- [포트폴리오 소개 및 시연 영상 자리](PORTFOLIO.md)
-- [영상 파일 추가 안내](media/README.md)
+- [포트폴리오 소개 및 시연 영상 자리](https://jihyunjo.vercel.app/)
+- [영상 파일 추가 안내](https://youtube.com/shorts/nqIoczHSWbs?si=Y3EPKuIadwcedCl2)
